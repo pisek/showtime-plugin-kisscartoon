@@ -23,6 +23,8 @@
     var PREFIX = 'kisscartoon';
     var logo = plugin.path + "logo.png";
     
+    var service = plugin.createService(plugin.getDescriptor().id, PREFIX + ":start", "video", true, logo);
+    
     function setPageHeader(page, title) {
         if (page.metadata) {
             page.metadata.title = title;
@@ -44,6 +46,8 @@
         d(url);
         var c = showtime.httpReq(url);
         d(c);
+        
+        d('rearfddfsaf');
         
     }
 
