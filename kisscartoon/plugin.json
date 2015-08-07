@@ -1,0 +1,14 @@
+{
+	"description": "<p>KissCartoon - A place where all cartoons can be seen...</p><p>For additional info, visit <a href=\"http://kisscartoon.me\">http://kisscartoon.me</a>",
+	"author": "pisek", 
+	"homepage": "https://github.com/pisek/showtime-plugin-kisscartoon",
+	"title": "KissCartoon",
+	"synopsis": "KissCartoon - cartoons everywhere!",
+	"version": "1.0.0",
+	"file": "kisscartoon.js",
+	"showtimeVersion": "4.9.46",
+	"type": "ecmascript",
+	"id": "kisscartoon",
+	"icon": "logo.png",
+	"category": "video"
+}
